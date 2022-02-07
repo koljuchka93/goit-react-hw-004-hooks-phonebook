@@ -37,7 +37,7 @@ const ContactForm = ({onSubmit}) => {
                         name="name"
                         value={name}
                         onChange={handleChange}
-                        placeholder="Andrii Hrytsai" />
+                        placeholder="Kateryna krylova" />
                 </label>
                 <label className={styles.label}>Number
                     <input
